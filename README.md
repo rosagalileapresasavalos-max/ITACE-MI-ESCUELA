@@ -22,3 +22,6 @@ El objetivo de este proyecto es presentar información sobre el ITACE, sus insta
 
 ## Nota
 Es una propuesta escolar no oficial. Los datos académicos deben revisarse con el plantel antes de publicar. Se conservaron las descripciones tal como fueron proporcionadas cuando faltaban datos o había términos por confirmar.
+
+##Conclusión
+Este proyecto me permitió aprender y aplicar conocimientos de HTML, CSS y JavaScript para crear una página web informativa sobre mi escuela. También aprendí a organizar archivos y publicar un sitio utilizando GitHub Pages.
