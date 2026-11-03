@@ -17,5 +17,8 @@ Las rutas de imágenes y videos son ejemplos/recursos del proyecto. Si algún ar
 ## Publicación
 Mantén las carpetas `datos`, `imagenes`, `video` y `audio` junto a `index.html`, `style.css` y `script.js`. Sube toda la estructura al repositorio.
 
+##Objetivo del proyecto
+El objetivo de este proyecto es presentar información sobre el ITACE, sus instalaciones, especialidades y actividades escolares mediante una página web organizada, atractiva y fácil de utilizar.
+
 ## Nota
 Es una propuesta escolar no oficial. Los datos académicos deben revisarse con el plantel antes de publicar. Se conservaron las descripciones tal como fueron proporcionadas cuando faltaban datos o había términos por confirmar.
