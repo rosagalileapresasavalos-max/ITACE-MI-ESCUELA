@@ -1,0 +1,263 @@
+[
+  {
+    "nombre": "Gerardo de la Rosa Ortega",
+    "academia": "Idiomas",
+    "materias": "Inglés",
+    "semestres": "Quinto",
+    "perfil": "Licenciado en contaduría",
+    "avatar": "👨‍🏫",
+    "area": "Idiomas"
+  },
+  {
+    "nombre": "Bertha Alicia Zapata Aldape",
+    "academia": "Matemáticas",
+    "materias": "No especificadas",
+    "semestres": "1 y 3",
+    "perfil": "Doctorado; 2 años y medio en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Matemáticas"
+  },
+  {
+    "nombre": "Carlos Melecio Carmona Olivares",
+    "academia": "Diseño gráfico e inglés",
+    "materias": "No especificadas",
+    "semestres": "1 y 3",
+    "perfil": "Licenciatura en diseño gráfico (UVB); maestría en educación básica (UPN); 2 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Diseño gráfico e inglés"
+  },
+  {
+    "nombre": "Erik Ramírez Solís",
+    "academia": "Matemáticas",
+    "materias": "Pensamiento matemático",
+    "semestres": "1, 3 y 5",
+    "perfil": "Ingeniería electromecánica; maestría en educación; 21 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Matemáticas"
+  },
+  {
+    "nombre": "Grecia Ávalos Ramos",
+    "academia": "Comunicación",
+    "materias": "Lengua y comunicación",
+    "semestres": "1 y 3",
+    "perfil": "Licenciatura y maestría; salón B1; 3 años en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Comunicación"
+  },
+  {
+    "nombre": "Sandra Catalina Silva Camacho",
+    "academia": "Comunicación",
+    "materias": "Comunicación",
+    "semestres": "Todos (hasta 5)",
+    "perfil": "Maestría en metodología de la enseñanza; salón B4; 25 años en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Comunicación"
+  },
+  {
+    "nombre": "Liliana Rosas Pacheco",
+    "academia": "Humanidades y comunicación",
+    "materias": "Pensamiento filosófico, conciencia histórica, lengua y comunicación, formación socioemocional",
+    "semestres": "1 y 5",
+    "perfil": "Licenciatura en pedagogía; posgrados en educación, docencia y doctorado en educación; 5 años en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Humanidades y comunicación"
+  },
+  {
+    "nombre": "Carla Valeria Morán Lerma",
+    "academia": "Humanidades",
+    "materias": "Pensamiento filosófico, ciencias sociales y cultura digital",
+    "semestres": "1 y 3",
+    "perfil": "Maestría; salón B3; 33 años en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Humanidades"
+  },
+  {
+    "nombre": "Benjamín Limón Martínez",
+    "academia": "Informática",
+    "materias": "Programación, inteligencia artificial y cultura digital",
+    "semestres": "5, 3 y 1 respectivamente",
+    "perfil": "Administración en productividad y calidad; maestría en educación; salón Laboratorio 5; 5 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Informática"
+  },
+  {
+    "nombre": "Isidro de León Flores",
+    "academia": "Educación",
+    "materias": "Área de educación (dato original: “Educación Fp”)",
+    "semestres": "Todos",
+    "perfil": "Licenciatura en psicopedagogía y pedagogía; salón C4; 29 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Educación"
+  },
+  {
+    "nombre": "Norma Elena Torres Quiñones",
+    "academia": "Ciencias naturales e IT",
+    "materias": "Ciencias naturales e IT",
+    "semestres": "1, 3 y 5",
+    "perfil": "Ingeniería química; maestría en docencia; salón B2; 26 años en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Ciencias naturales e IT"
+  },
+  {
+    "nombre": "Luis Enrique Lerma Martínez",
+    "academia": "Conciencia histórica y comunicación",
+    "materias": "Formación socioemocional I, lengua y comunicación I y III, conciencia histórica II; módulos de mantenimiento petrolero e industrial",
+    "semestres": "1, 3 y 5",
+    "perfil": "Licenciatura en pedagogía; ingeniería petrolera; diplomado en competencias docentes; 33 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Conciencia histórica y comunicación"
+  },
+  {
+    "nombre": "Brenda Itzel Herrera García",
+    "academia": "Informática",
+    "materias": "Cultura digital e inteligencia artificial",
+    "semestres": "3 y 1",
+    "perfil": "Técnica en informática; ingeniería en sistemas computacionales; maestría en educación; 4 años en ITACE",
+    "avatar": "👩‍🏫",
+    "area": "Informática"
+  },
+  {
+    "nombre": "Walter Allan Barrera Cerda",
+    "academia": "Comunicación e idiomas",
+    "materias": "Inglés 3; club Rondalla",
+    "semestres": "Inglés 3; club 1, 2 y 3",
+    "perfil": "Ingeniería industrial y administración; 13 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Comunicación e idiomas"
+  },
+  {
+    "nombre": "Laura Esmeralda Heredia Blanco",
+    "academia": "Ciencias naturales",
+    "materias": "Física, química y ciencias",
+    "semestres": "1, 3 y 5",
+    "perfil": "Bióloga",
+    "avatar": "👩‍🏫",
+    "area": "Ciencias naturales"
+  },
+  {
+    "nombre": "Felipe Hernández González",
+    "academia": "Eléctrica y electrónica",
+    "materias": "Módulo eléctrica/electrónica y semiconductores",
+    "semestres": "3 y 5",
+    "perfil": "Ingeniería en electrónica",
+    "avatar": "👨‍🏫",
+    "area": "Eléctrica y electrónica"
+  },
+  {
+    "nombre": "José López Vázquez",
+    "academia": "Mantenimiento industrial",
+    "materias": "Módulo de mantenimiento industrial",
+    "semestres": "3 I y 5 I (turno vespertino)",
+    "perfil": "Ingeniería industrial",
+    "avatar": "👨‍🏫",
+    "area": "Mantenimiento industrial"
+  },
+  {
+    "nombre": "Yuridia Lizbeth Cepeda Ramos",
+    "academia": "Idiomas y matemáticas",
+    "materias": "Inglés y temas selectos de matemáticas 2",
+    "semestres": "No especificados",
+    "perfil": "Ingeniería industrial; licenciatura en matemáticas; maestría en educación e innovación educativa; cursa doctorado en educación",
+    "avatar": "👩‍🏫",
+    "area": "Idiomas y matemáticas"
+  },
+  {
+    "nombre": "Juan Pablo Torres Adame",
+    "academia": "Informática",
+    "materias": "Programación, cultura digital; club de robótica; cursos de Excel los sábados",
+    "semestres": "1, 3 y 5",
+    "perfil": "Licenciatura en información administrativa; maestría en ciencias de la enseñanza",
+    "avatar": "👨‍🏫",
+    "area": "Informática"
+  },
+  {
+    "nombre": "Romualdo Guadalupe de la Cruz",
+    "academia": "Matemáticas",
+    "materias": "Pensamiento matemático; mantenimiento industrial e instalaciones petroleras",
+    "semestres": "1 y 3",
+    "perfil": "",
+    "avatar": "👨‍🏫",
+    "area": "Matemáticas"
+  },
+  {
+    "nombre": "Nohemí Quintanilla Arcos",
+    "academia": "No especificada",
+    "materias": "No especificadas",
+    "semestres": "No especificados",
+    "perfil": "Especialidad registrada como “perfecta” en la información recibida; confirmar dato",
+    "avatar": "👩‍🏫",
+    "area": "No especificada"
+  },
+  {
+    "nombre": "Ulises Solís Rieboles",
+    "academia": "Ciencias naturales",
+    "materias": "Ciencias naturales",
+    "semestres": "1, 3 y 5",
+    "perfil": "Químico farmacéutico biólogo; maestrías en análisis clínicos y educación; cursa doctorado en educación",
+    "avatar": "👨‍🏫",
+    "area": "Ciencias naturales"
+  },
+  {
+    "nombre": "Diana Janeth Uriegas Garza",
+    "academia": "Comunicación y matemáticas",
+    "materias": "Club de oratoria, habilidades para hablar en público y matemáticas básicas",
+    "semestres": "1, 3 y 5",
+    "perfil": "Licenciatura en administración; Instituto Tecnológico de Reynosa",
+    "avatar": "👩‍🏫",
+    "area": "Comunicación y matemáticas"
+  },
+  {
+    "nombre": "José Luis González López",
+    "academia": "Semiconductores y matemáticas",
+    "materias": "Módulo de semiconductores; pensamiento matemático",
+    "semestres": "3",
+    "perfil": "",
+    "avatar": "👨‍🏫",
+    "area": "Semiconductores y matemáticas"
+  },
+  {
+    "nombre": "Javier Alfonso Acosta García",
+    "academia": "Mantenimiento automotriz",
+    "materias": "Módulo de máquinas y mantenimiento automotriz",
+    "semestres": "3 y 5",
+    "perfil": "Ingeniería electromecánica; maestría en ingeniería industrial y manufactura avanzada",
+    "avatar": "👨‍🏫",
+    "area": "Mantenimiento automotriz"
+  },
+  {
+    "nombre": "Mario Alonso Santoyo Arroyo",
+    "academia": "Mantenimiento industrial",
+    "materias": "Módulo profesional de mantenimiento industrial 2 y 4",
+    "semestres": "5 y 3 (según información recibida)",
+    "perfil": "Maestría en educación; carrera técnica en refrigeración y climatización; ingeniería industrial",
+    "avatar": "👨‍🏫",
+    "area": "Mantenimiento industrial"
+  },
+  {
+    "nombre": "Erika Aidé Pérez Ábrego",
+    "academia": "Ciencias naturales y humanidades",
+    "materias": "Ciencias naturales y humanidades",
+    "semestres": "3 y 5",
+    "perfil": "Ingeniería industrial y de sistemas; maestría en educación",
+    "avatar": "👩‍🏫",
+    "area": "Ciencias naturales y humanidades"
+  },
+  {
+    "nombre": "Omar Saúl González Alatriste",
+    "academia": "Prefectura",
+    "materias": "Responsable de tercer semestre",
+    "semestres": "No especificados",
+    "perfil": "Prefecto; 32 años en ITACE",
+    "avatar": "👨‍🏫",
+    "area": "Prefectura"
+  },
+  {
+    "nombre": "Mildred Yasmín Reyes Norberto",
+    "academia": "Matemáticas",
+    "materias": "Temas selectos de matemáticas 2",
+    "semestres": "5",
+    "perfil": "Ingeniería química; maestría en docencia",
+    "avatar": "👩‍🏫",
+    "area": "Matemáticas"
+  }
+]
